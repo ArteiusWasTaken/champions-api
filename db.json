@@ -1,7 +1,7 @@
 {
-    "type": "champion",
-    "format": "standAloneComplex",
-    "version": "12.6.1",
+    "type": [{"type" : "champion"}],
+    "format": [{"format" : "standAloneComplex"}],
+    "version": [{"version": "12.6.1"}],
     "results": [
       {
         "version": "12.6.1",
